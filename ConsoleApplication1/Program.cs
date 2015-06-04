@@ -16,6 +16,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hi y'all");
             Console.WriteLine("How are you?");
+            Console.WriteLine("How are you?");
         }
     }
 }
